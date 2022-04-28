@@ -8,3 +8,12 @@ D:\Projects\VF_WEB\CORE\obj\Debug\netcoreapp3.1\CORE.AssemblyInfo.cs
 D:\Projects\VF_WEB\CORE\obj\Debug\netcoreapp3.1\CORE.csproj.CoreCompileInputs.cache
 D:\Projects\VF_WEB\CORE\obj\Debug\netcoreapp3.1\CORE.dll
 D:\Projects\VF_WEB\CORE\obj\Debug\netcoreapp3.1\CORE.pdb
+D:\VAIVAL\PROJECTS\GITHUB\Elysium_Web\CORE\bin\Debug\netcoreapp3.1\CORE.deps.json
+D:\VAIVAL\PROJECTS\GITHUB\Elysium_Web\CORE\bin\Debug\netcoreapp3.1\CORE.dll
+D:\VAIVAL\PROJECTS\GITHUB\Elysium_Web\CORE\bin\Debug\netcoreapp3.1\CORE.pdb
+D:\VAIVAL\PROJECTS\GITHUB\Elysium_Web\CORE\obj\Debug\netcoreapp3.1\CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\VAIVAL\PROJECTS\GITHUB\Elysium_Web\CORE\obj\Debug\netcoreapp3.1\CORE.AssemblyInfoInputs.cache
+D:\VAIVAL\PROJECTS\GITHUB\Elysium_Web\CORE\obj\Debug\netcoreapp3.1\CORE.AssemblyInfo.cs
+D:\VAIVAL\PROJECTS\GITHUB\Elysium_Web\CORE\obj\Debug\netcoreapp3.1\CORE.csproj.CoreCompileInputs.cache
+D:\VAIVAL\PROJECTS\GITHUB\Elysium_Web\CORE\obj\Debug\netcoreapp3.1\CORE.dll
+D:\VAIVAL\PROJECTS\GITHUB\Elysium_Web\CORE\obj\Debug\netcoreapp3.1\CORE.pdb

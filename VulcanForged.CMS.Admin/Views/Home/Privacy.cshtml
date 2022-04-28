@@ -68,7 +68,7 @@
              editor.execCommand("find")
             var urlParams = new URLSearchParams(window.location.search);
             $('#save').click(function () {
-                $.post('SavePage', { filepath: urlParams.get("filePath"), fileContent: editor.getValue() },
+                $.post("@Url.Action("SavePage", "Home")", { filepath: urlParams.get("filePath"), fileContent: editor.getValue() },
                     function (returnedData) {
                         toastr.success(returnedData)
                         console.log(returnedData);

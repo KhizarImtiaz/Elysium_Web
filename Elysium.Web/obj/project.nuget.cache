@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "65QRrV7iQ58dI9Ys/W4j6NfZnQtuficYmgJOh8xGy+yAcVl4oJj561wj8f+rhjtvMMZg1BdDEugbvftr6EQrUQ==",
+  "dgSpecHash": "2Zz5ydj6oNMKOBJ50q1VWDe+cJ07IXYSWC20+91n4NhhnAkrFLd65Ijx7F5ZWo42qFtNeITDXAqhGcmRRNRMTw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Elysium_Web\\Elysium.Web\\Elysium.Web.csproj",
+  "projectFilePath": "D:\\VAIVAL\\PROJECTS\\GITHUB\\Elysium_Web\\Elysium.Web\\Elysium.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vaival\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.23\\microsoft.aspnetcore.mvc.razor.extensions.3.1.23.nupkg.sha512",
     "C:\\Users\\Vaival\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.23\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.23.nupkg.sha512",
